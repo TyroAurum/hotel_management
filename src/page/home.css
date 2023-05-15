@@ -1,0 +1,64 @@
+.in-sec-data{
+    padding-top: 2%;
+    display: flex;
+    background-color: whitesmoke;
+    justify-content:center;
+    padding-bottom: 5%;
+}
+
+.in-sec-input-div{
+    width: 100vb;
+    display: flex;
+    
+}
+
+.bill-input{
+    margin-left: 16vb;
+    margin-bottom: 10vb;
+    display: inline-block;
+    padding: 4px;
+}
+#in-sec-sub{
+    padding: 7px 25px;
+    border-radius: 5px;
+    margin-left: 42%;
+}
+.in-sec2 { 
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    
+}
+
+table,th,td{
+    border: 1px solid;
+}
+table{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+th{
+    padding: 1vh 2rem;
+}
+
+.in-sec2-tab1{
+    margin: auto;
+}
+
+.in-sec2-tab2{
+    margin: auto;
+}
+
+table {
+    display: table !important;
+}
+
+#homepage-main-submit{
+    display: flex;
+    margin: auto;
+    width: 125px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+}

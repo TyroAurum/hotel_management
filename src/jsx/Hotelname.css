@@ -1,0 +1,23 @@
+.hotel-main-div{
+    background-color: darkgray;
+}
+
+#pandian{
+    margin-top: 15vh;
+    margin-left: 5vw;
+    
+}
+
+.hotel-sub-div{
+    display: inline-flex;
+    margin-left: 60vw;
+    
+}
+
+.hotel-sub-div>ul>a>button {
+    margin-left: 5vw;
+    width: 95px;
+    height: 35px;
+    border-radius: 5px;
+    
+}

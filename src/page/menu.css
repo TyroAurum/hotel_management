@@ -1,0 +1,21 @@
+.menu-maindiv{
+    display: flex;
+    justify-content: center;
+}
+.menu-sec{
+    display: block;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.menu-sec>ul>a{
+    display:flex ;
+    flex-direction: column;
+}
+
+.menu-sec>ul>a>span>button {
+    width: 15vw;
+    height: 45px;
+    margin-top: 5vh;
+}
